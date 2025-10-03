@@ -1,5 +1,5 @@
 # bootdev-asteroids
-this project exists purely to follow along with the asteroids project on (https://www.boot.dev)[boot.dev]
+this project exists purely to follow along with the asteroids project on [boot.dev](https://www.boot.dev/)
 
 it's literally just the game of asteroids.
 
